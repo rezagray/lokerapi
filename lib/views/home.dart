@@ -1,8 +1,11 @@
 /*
-Apriyo F.         (181420091)
-Arif Athallah         (181420065)
-Muhammad Reza Pahlepi     (181420069)
-Trima Subhan Perbawa         (181420055)
+Apriyo Fadli(181420091)
+Arif Athallah(181420065)
+Muhammad Reza Pahlepi(181420069)
+Trima Subhan Perbawa (181420055)
+Pembagian Tugas
+  Muhammad Reza Pahlepi dalam membuat home list view post yang ada
+
 */
 
 // bagian menampilkan tampilan awal aplikasi daftar loker yang ada di palembang
